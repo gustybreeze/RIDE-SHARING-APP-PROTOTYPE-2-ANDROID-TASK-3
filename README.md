@@ -100,3 +100,8 @@ Access in your browser:
 
 **Output**
 
+<img width="992" height="444" alt="Image" src="https://github.com/user-attachments/assets/9666bc71-6072-4455-81d2-6123b8e5fb98" />
+
+<img width="1041" height="537" alt="Image" src="https://github.com/user-attachments/assets/2e28f455-f3c8-4c1e-b756-8d4e9800cd77" />
+
+<img width="1061" height="602" alt="Image" src="https://github.com/user-attachments/assets/c5689027-3bb6-4c7b-b778-3879c0f642e8" />
